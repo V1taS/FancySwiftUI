@@ -12,7 +12,7 @@ let package = Package(
       targets: ["FancySwiftUI"]),
   ],
   dependencies: [
-    .package(url: "https://github.com/V1taS/FancyStyle.git", from: "1.4.0"),
+    .package(url: "https://github.com/V1taS/FancyStyle.git", from: "1.7.0"),
   ],
   targets: [
     .target(
